@@ -1,0 +1,20 @@
+{
+    "rpcport": 8985,
+    "rpcaddr": "127.0.0.1",
+    "admins": [
+        {
+            "root": "0xe4FAd2E5eE2E878e65F1fe02c0F9edAf54789a8e",
+            "admins": [
+                "0xb8782f1d081ed1060bfcd9080b4975fd979c74f2",
+                "0x7ffc1af7bee697451aa0a7fc78fdc392ecf3f5a1"
+            ]
+        },
+        {
+            "root": "0x703c4b2bd70c169f5717101caee543299fc946c7",
+            "admins": [
+                "0xd4b48363836ae4067aa359587bd62b7061a9f55c",
+                "0x0bacec976373cbf95ba78a5fce41f5a0b6cebee2"
+            ]
+        }
+    ]
+}
